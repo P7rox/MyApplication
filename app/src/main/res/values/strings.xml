@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HSBC</string>
+    <string-array name="country">
+        <item>China</item>
+        <item>India</item>
+        <item>UK</item>
+        <item>USA</item>
+    </string-array>
+</resources>
